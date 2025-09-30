@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Montiel-López
+  given-names: David
+orcid: https://orcid.org/0000-0001-5673-4546
+title:DavidmMontiel/Clustering_Analysis_zonation: Dataset for the paper: "Insights into tectonic zonation models from the clustering analysis of seismicity in south and south-eastern Spain"
+version: Seismic_cluster_analysis
+date-released: 2025-09-30
+                            
